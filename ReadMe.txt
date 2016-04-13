@@ -1,0 +1,1 @@
+Implement the maximum subarray problem using the O(nlgn) algorithm learned in class. Test your program with an array with both positive and negative numbers.
